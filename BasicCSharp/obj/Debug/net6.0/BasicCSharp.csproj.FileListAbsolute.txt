@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\bin\Debug\net6.0\BasicCSharp.exe
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\bin\Debug\net6.0\BasicCSharp.deps.json
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\bin\Debug\net6.0\BasicCSharp.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\bin\Debug\net6.0\BasicCSharp.dll
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\bin\Debug\net6.0\BasicCSharp.pdb
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.dll
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\refint\BasicCSharp.dll
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.pdb
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\BasicCSharp.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\PG-DAC-PROGRAMS\C#\BasicCSharp\obj\Debug\net6.0\ref\BasicCSharp.dll
